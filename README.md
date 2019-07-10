@@ -19,7 +19,7 @@ Readme : explanation of project and tools used
 
 ## Model
 
-I have used an ensemble model i.e. Random Forest. I splitted dataset in training and testing set (70-30).
+I have used an ensemble model i.e. Random Forest with a splitted dataset in training and testing set (70-30).
 
 ## Blog Post Link
 [Crisp_blog](https://medium.com/@neoxData/using-crisp-dm-framework-on-imbd-movies-dataset-43a88678c279?postPublishedType=initial)
